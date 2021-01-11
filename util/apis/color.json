@@ -1,0 +1,22 @@
+[{
+    "name": "red",
+    "hex": "0x962a00",
+    "percent": "20"
+}, {
+    "name": "redorange",
+    "hex": "0x963c00",
+    "percent": "30"
+
+} ,
+{
+    "name": "orange",
+    "hex": "0x965900",
+    "percent": "40"
+
+}, {
+    "name": "yellow",
+    "hex": "0x967e00",
+    "percent": ""
+
+}
+]
